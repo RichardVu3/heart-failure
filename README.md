@@ -1,2 +1,4 @@
 # heart-failure
-(Pandas, matplotlib, seaborn) Analyze and Visualize heart failure dataset.
+- Libraries used: Pandas, matplotlib, seaborn.
+- Analyze and Visualize heart failure dataset.
+- Dataset from Kaggle.com
